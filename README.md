@@ -1,2 +1,0 @@
-# vcftool
-vcf工具
